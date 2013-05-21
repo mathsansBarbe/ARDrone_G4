@@ -1,7 +1,6 @@
 test mathsansBarbe
-<<<<<<< HEAD
+
 Vincent Superman il est méchant
-=======
+
 
 test 2 mathsansBarbe
->>>>>>> 22c9bcaf5cc58fcfc538905636eff824e488c3fa
